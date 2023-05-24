@@ -1,15 +1,15 @@
 ### Hi there 👋
 Количество репозиториев: 13
 
-Языки: Python/C#/HTML/C++
+Языки: Python/C#/HLSL/ShaderLab/C++/Objective-C++/GLSL/CMake/HTML/JavaScript/Batchfile/Tcl/C++
 
-Комитов: 145
+Комитов: 146
 
 Просмотров: 9
 
-Вес всех репазиториев: 506599
+Вес всех репазиториев: 506630
 
-Время обновления: 2023-05-25 02:06:28
+Время обновления: 2023-05-25 02:18:12
 
 <!--
 **Emeteil/Emeteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
