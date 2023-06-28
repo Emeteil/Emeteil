@@ -1,27 +1,16 @@
 ### Hi there 👋
-Количество репозиториев: 14
+Количество репозиториев: 17
 
-Языки: Python/C#/CSS/PHP/HTML/HLSL/ShaderLab/C++/Objective-C++/GLSL/CMake/JavaScript/Batchfile/Tcl
+Языки: Python/C++/C#/CSS/PHP/HTML/JavaScript/HLSL/ShaderLab/Objective-C++/GLSL/CMake/Tcl
 
-Комитов: 152
+Комитов: 222
 
-Просмотров: 13
+Просмотров: 16
 
-Вес всех репазиториев: 506642
+Вес всех репазиториев: 701513
 
-Время обновления: 2023-05-25 22:18:31
+Время обновления: 2023-06-28 09:51:18
 
 <!--
-**Emeteil/Emeteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/rzashakeri/beautify-github-profile
 -->
